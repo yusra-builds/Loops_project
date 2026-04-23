@@ -1,11 +1,11 @@
 # Multiplication Table
-This is a simple Python project that prints the multiplication table of a number using a for loop.
+These are  simple Python project that prints the multiplication table of a number using a for loop and while loop.
 It is a beginner-friendly program to understand loops and basic input/output in Python.
 
 # Features
 Takes a number as input.
 Prints multiplication table upto 10.
-Uses for loop for iteration.
+Uses for loop and while loop for iteration.
 Easy to understand logic.
 
 Example Output
@@ -21,3 +21,8 @@ Multiplication table of 5 is:
 5 x 8 = 40
 5 x 9 = 45
 5 x 10 = 50
+
+## Files in this Project
+
+- multiplication_table.py → Multiplication table using for loop 
+- multiplication_table2.py → Multiplication table using while loop
